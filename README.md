@@ -29,7 +29,7 @@
 Тут вы можете выбрать установщик для вашей версии ОС: [![Linkedin Badge](https://img.shields.io/badge/-Link%3A%20Как%20установить%20Python-red)](https://www.youtube.com/watch?v=Frr4sJWO1tU)
 ![srcreenshot](screenshot2.jpg)<br>
 
-После установки Python скачиваем zip архив нажав на кнопку <CODE> и выбрать DOWNLOAD ZIP. Открываем в любой удобной для вас среде разработки для языка программирования Python(VS CODE, PYCHARM и т.д). На примере VS CODE устанавливаем нужные модули с помощью файла requiments.txt
+После установки Python скачиваем zip архив нажав на кнопку "CODE" и выбрать "DOWNLOAD ZIP". Открываем в любой удобной для вас среде разработки для языка программирования Python(VS CODE, PYCHARM и т.д). На примере VS CODE устанавливаем нужные модули с помощью файла requiments.txt
 ![srcreenshot](screenshot3.jpg)<br>
   
 ```
