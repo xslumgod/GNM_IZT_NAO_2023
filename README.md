@@ -21,4 +21,5 @@
 </p>
 
 ### :woman_technologist: Установка :
-![srcreenshot](srcreenshot1.jpg)
+![srcreenshot](screenshot1.jpg)
+```
