@@ -26,7 +26,7 @@
 <a>Первым делом нужно скачать и установить чистый Python V 3.9.0: [![Linkedin Badge](https://img.shields.io/badge/-Link%20in%20Python%20v3.9.0-red)](https://www.python.org/downloads/release/python-390/)</a><br>
 ![srcreenshot](screenshot1.jpg)
 
-Тут вы можете выбрать установщик для вашей версии ОС:
+Тут вы можете выбрать установщик для вашей версии ОС: [![Linkedin Badge](https://img.shields.io/badge/-Link%20in%20Python%20v3.9.0-red)](https://www.youtube.com/watch?v=Frr4sJWO1tU)
 ![srcreenshot](screenshot2.jpg)
 
 ```
