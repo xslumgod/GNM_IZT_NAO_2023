@@ -45,5 +45,7 @@
 
 ![srcreenshot](screenshot6.jpg)<br>
 
+Все основные этапы вы сделали можно запускать программу webcam.py
+
 ```
 
