@@ -4,7 +4,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <h1>
-  Научная работа
+  Научная работа<br>
+    РАЗРАБОТКА ОХРАННОЙ КЛИЕНТ-СЕРВЕРНОЙ СИСТЕМЫ ОПЕРАТИВНОГО КОНТРОЛЯ И УПРАВЛЕНИЯ ДОСТУПОМ
 </h1>
 </div>
 
