@@ -24,10 +24,13 @@
 
 ### :woman_technologist: Установка :
 <a>Первым делом нужно скачать и установить чистый Python V 3.9.0: [![Linkedin Badge](https://img.shields.io/badge/-Link%20in%20Python%20v3.9.0-red)](https://www.python.org/downloads/release/python-390/)</a><br>
-![srcreenshot](screenshot1.jpg)
+![srcreenshot](screenshot1.jpg)<br>
 
 Тут вы можете выбрать установщик для вашей версии ОС: [![Linkedin Badge](https://img.shields.io/badge/-Link%3A%20Как%20установить%20Python-red)](https://www.youtube.com/watch?v=Frr4sJWO1tU)
-![srcreenshot](screenshot2.jpg)
+![srcreenshot](screenshot2.jpg)<br>
 
+После установки Python скачиваем zip архив нажав на кнопку <CODE> и выбрать DOWNLOAD ZIP. Открываем в любой удобной для вас среде разработки для языка программирования Python(VS CODE, PYCHARM и т.д). На примере VS CODE устанавливаем нужные модули с помощью файла requiments.txt
+![srcreenshot](screenshot3.jpg)<br>
+  
 ```
 
