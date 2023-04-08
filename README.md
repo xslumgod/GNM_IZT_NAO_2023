@@ -34,6 +34,11 @@
 После установки Python скачиваем zip архив нажав на кнопку "CODE" и выбрать "DOWNLOAD ZIP". Открываем в любой удобной для вас среде разработки для языка программирования Python(VS CODE, PYCHARM и т.д). На примере VS CODE устанавливаем нужные модули с помощью файла requirements.txt<br>
 
 ![srcreenshot](screenshot3.jpg)<br>
-  
+
+Далее нужно в телеграмме узнать свой ID чата, для этого мы делаем следующие шаги:
+
+![srcreenshot](screenshot4.jpg)<br>
+
+![srcreenshot](screenshot5.jpg)<br>
 ```
 
