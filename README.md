@@ -23,6 +23,6 @@
 ---
 
 ### :woman_technologist: Установка :
-Первым делом нужно скачать и установить чистый Python V 3.9.0:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.python.org/downloads/release/python-390/)
+<a>Первым делом нужно скачать и установить чистый Python V 3.9.0:[![Linkedin Badge](https://img.shields.io/badge/-Python-lightgrey)](https://www.python.org/downloads/release/python-390/)</a>
 ![srcreenshot](screenshot1.jpg)
 ```
