@@ -40,5 +40,10 @@
 ![srcreenshot](screenshot4.jpg)<br>
 
 ![srcreenshot](screenshot5.jpg)<br>
+
+В появившимся окне скопировать ваш CHAT ID и заменить его в данной строке:
+
+![srcreenshot](screenshot6.jpg)<br>
+
 ```
 
